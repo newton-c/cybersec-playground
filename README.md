@@ -5,13 +5,15 @@ You just sat through a presentation where I showed you step-by-step how to trick
 
 Anyway, here are some good resources.
 
+[IC Cyber Security Protocols](https://docs.google.com/document/d/1033SZ4TWA2RCZup_YoswDGH134kmX2qGD_QuG2QEVPY/edit?usp=sharing)
+
 ## News and Analysis
 
 [CISO Adviser](https://www.cisoadvisor.com.br/) | PT
 
 [Segu-Info](https://blog.segu-info.com.ar/) | ES
 
-[We Live Security](https://www.welivesecurity.com/es/)
+[We Live Security](https://www.welivesecurity.com/es/) | ES, EN, PT, FR
 
 ## Podcasts
 
