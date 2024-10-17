@@ -17,7 +17,7 @@ Anyway, here are some good resources.
 
 [Ciberseguridad sin censura](https://open.spotify.com/show/4XymlIUA6iFaW6IUMjYfGK) | ES
 
-[Conección Segura](https://www.eset.com/ec/podcast/) | ES
+[Conexión Segura](https://www.eset.com/ec/podcast/) | ES
 
 [Darknet Diaries](https://darknetdiaries.com/) | EN
 
